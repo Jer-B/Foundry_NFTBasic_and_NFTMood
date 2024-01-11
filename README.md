@@ -288,8 +288,6 @@ forge test --fork-url $alchemy_RPC_sepolia
 forge coverage
 ```
 
-# Deployment to a testnet or mainnet
-
 # テストネットまたはメインネットへのデプロイ
 
 1. 環境変数の設定
