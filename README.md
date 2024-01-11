@@ -4,8 +4,8 @@
 # Preview
 For an easy interaction with the contract use abi.ninja website.
 Here is a link to the contract loaded on it:
-BasicNFT = [Foundry BasicNFT contract]()
-DynamicNFT = [Foundry MoodNFT contract]()
+- BasicNFT = [Foundry BasicNFT contract]()
+- DynamicNFT = [Foundry MoodNFT contract]()
 
 Click on function on the left to add them in the center of the page and interact with them.
 - Functions under the 'READ' category are for getting actual values.
@@ -177,8 +177,8 @@ forge fmt
 # プレビュー
 コントラクトとの簡単な対話には abi.ninja ウェブサイトを使用してください。
 以下は、それにロードされたコントラクトへのリンクです: 
-BasicNFT = [Foundry BasicNFT contract]()
-DynamicNFT = [Foundry MoodNFT contract]()
+- BasicNFT = [Foundry BasicNFT contract]()
+- DynamicNFT = [Foundry MoodNFT contract]()
 
 左側の関数をクリックして、それらをページの中央に追加し、それらと対話します。
 - `READ`カテゴリーの下にある関数は実際の値を取得するためのものです。
