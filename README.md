@@ -4,8 +4,8 @@
 # Preview
 For an easy interaction with the contract use abi.ninja website.
 Here is a link to the contract loaded on it:
-- BasicNFT = [Foundry BasicNFT contract]()
-- DynamicNFT = [Foundry MoodNFT contract]()
+- BasicNFT = [Foundry BasicNFT contract](https://abi.ninja/0x7fdC673352cb7b8Efa1EB69A28DDe4FA2e1D0A8C/sepolia?functions=mintNFT)
+- DynamicNFT = [Foundry MoodNFT contract](https://abi.ninja/0x5ef9f85711932c78f80f70ee4dd4c7621aed33ce/sepolia?functions=mintNFT%2CmintNft)
 
 Click on function on the left to add them in the center of the page and interact with them.
 - Functions under the 'READ' category are for getting actual values.
@@ -16,11 +16,11 @@ Click on function on the left to add them in the center of the page and interact
 
 # # Foundry NFT
 
-Contract for BasicNFT is deployed at xxxx
-[View on Sepolia]()
+Contract for BasicNFT is deployed at 0x7fdC673352cb7b8Efa1EB69A28DDe4FA2e1D0A8C
+[View on Sepolia](https://sepolia.etherscan.io/address/0x7fdC673352cb7b8Efa1EB69A28DDe4FA2e1D0A8C)
 
-Contract for MoodNFT is deployed at xxxx
-[View on Sepolia]()
+Contract for MoodNFT is deployed at 0x5ef9f85711932c78f80f70ee4dd4c7621aed33ce
+[View on Sepolia](https://sepolia.etherscan.io/address/0x5ef9f85711932c78f80f70ee4dd4c7621aed33ce)
 
 1. An IPFS Hosted NFT 
 2. An SVG NFT (Hosted 100% on-chain) 
@@ -177,8 +177,8 @@ forge fmt
 # プレビュー
 コントラクトとの簡単な対話には abi.ninja ウェブサイトを使用してください。
 以下は、それにロードされたコントラクトへのリンクです: 
-- BasicNFT = [Foundry BasicNFT contract]()
-- DynamicNFT = [Foundry MoodNFT contract]()
+- BasicNFT = [Foundry BasicNFT contract](https://abi.ninja/0x7fdC673352cb7b8Efa1EB69A28DDe4FA2e1D0A8C/sepolia?functions=mintNFT)
+- DynamicNFT = [Foundry MoodNFT contract](https://abi.ninja/0x5ef9f85711932c78f80f70ee4dd4c7621aed33ce/sepolia?functions=mintNFT%2CmintNft)
 
 左側の関数をクリックして、それらをページの中央に追加し、それらと対話します。
 - `READ`カテゴリーの下にある関数は実際の値を取得するためのものです。
@@ -189,11 +189,11 @@ forge fmt
 
 # # Foundry NFT
 
-`BasicNFT`コントラクトは、0xxxx にデプロイされています。
-[View on Sepolia]()
+`BasicNFT`コントラクトは、0x7fdC673352cb7b8Efa1EB69A28DDe4FA2e1D0A8C にデプロイされています。
+[View on Sepolia](https://sepolia.etherscan.io/address/0x7fdC673352cb7b8Efa1EB69A28DDe4FA2e1D0A8C)
 
-`MoodNFT`コントラクトは、0xxxx にデプロイされています。
-[View on Sepolia]()
+`MoodNFT`コントラクトは、0x5ef9f85711932c78f80f70ee4dd4c7621aed33ce にデプロイされています。
+[View on Sepolia](https://sepolia.etherscan.io/address/0x5ef9f85711932c78f80f70ee4dd4c7621aed33ce)
 
 1. IPFSホストされたNFT
 2. SVG NFT（100%オンチェーンホスト）
